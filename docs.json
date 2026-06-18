@@ -1,0 +1,11 @@
+{
+  "name": "My Docs",
+  "logo": { "light": "", "dark": "" },
+  "colors": { "primary": "#0066FF" },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction"]
+    }
+  ]
+}
